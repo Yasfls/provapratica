@@ -20,10 +20,10 @@ telas:
 como rodar o projeto:
 
 - Clonar o repositório
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/Yasfls/provapratica.git
 
 - Acessar a pasta do projeto
-cd nome-do-repositorio
+cd provapratica
 
 - Instalar as dependências
 flutter pub get
